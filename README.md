@@ -1,4 +1,4 @@
-# Hi 👋, I'm Srimathi Wijayarathna
+# Hi 👋, I'm Ishara Wijayarathna
 
 🎓 Undergraduate Software Engineer at **Sri Lanka Institute of Information Technology (SLIIT)**  
 💻 Passionate about building real-world web applications  
@@ -63,7 +63,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 ## 📫 Contact Me
 
 - 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: *(add your LinkedIn profile link)*
+- 💼 LinkedIn: *www.linkedin.com/in/ishara-wijayarathna*
 - 🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
