@@ -1,55 +1,94 @@
-# Hi 👋, I'm Ishara Wijayarathna
+# 👋 Hi, I'm Ishara Wijayarathna
 
-🎓 Undergraduate Software Engineer at **Sri Lanka Institute of Information Technology (SLIIT)**  
-💻 Passionate about building real-world web applications  
-🌱 Currently learning and improving my skills in **Full Stack Development**
+**Software Engineering Undergraduate** | Full Stack Developer | Problem Solver
+
+<div align="center">
+
+🎓 **Sri Lanka Institute of Information Technology (SLIIT)**  
+💻 Building scalable web applications | 🚀 Passionate about software engineering  
+🌱 Continuously learning and improving my craft
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a motivated and detail-oriented **Software Engineering undergraduate** with a strong interest in designing and developing scalable, user-friendly applications.  
-I enjoy learning new technologies, solving problems, and working on practical projects that reflect real-world software solutions.
+I'm a dedicated **Software Engineering undergraduate** with a passion for creating elegant, scalable solutions to real-world problems. I thrive in collaborative environments and enjoy the entire software development lifecycle—from concept and design to implementation and deployment.
+
+With hands-on experience in full-stack development, I'm committed to writing clean, maintainable code and following software engineering best practices. I'm constantly exploring new technologies and methodologies to enhance my skills and deliver high-quality applications.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Core Competencies
 
 **Languages**
-- JavaScript
+- JavaScript/TypeScript
 - Java
 - Python
 - HTML5 & CSS3
+- SQL
 
-**Frameworks & Libraries**
+**Frontend Development**
 - React.js
-- Node.js
-- Express.js
+- HTML5 & CSS3
+- RESTful API Integration
+- Responsive Design
+
+**Backend Development**
+- Node.js & Express.js
+- RESTful API Design
+- Authentication & Authorization (JWT, bcrypt)
+- Database Design & Optimization
 
 **Databases**
-- MongoDB
-- MySQL
+- MongoDB (NoSQL)
+- MySQL (Relational)
+- Database Design & Normalization
 
-**Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Postman
-- npm
+**Tools & Technologies**
+- Git & GitHub (Version Control)
+- Visual Studio Code
+- Postman (API Testing)
+- npm/yarn (Package Management)
+- Webpack & Build Tools
+
+**Software Engineering Practices**
+- Object-Oriented Programming (OOP)
+- MVC Architecture
+- Clean Code Principles
+- RESTful API Design
+- Version Control Workflows
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- **Web Marketplace System**  
-  MERN stack-based platform with user authentication, dashboards, and product management.
+### 📦 Web Marketplace System
+**MERN Stack** | Full-featured e-commerce platform
+- User authentication with JWT & secure password hashing
+- Dynamic product catalog with filtering & search
+- Shopping cart and order management
+- Admin dashboard for inventory control
+- Real-time notifications system
 
-- **Hotel Management System**  
-  Web application to manage reservations, customers, and services.
+### 🏨 Hotel Management System
+**Full Stack Web Application** | Reservation & booking platform
+- Guest management and check-in/check-out systems
+- Room inventory tracking & availability management
+- Reservation scheduling & confirmation emails
+- Staff management dashboard
+- Billing and payment integration
 
-- **Authentication System**  
-  Secure login and signup system using JWT and bcrypt.
+### 🔐 Authentication System
+**Security-focused Implementation** | User session management
+- Secure login/signup with input validation
+- Password hashing using bcrypt
+- JWT token-based authentication
+- Role-based access control (RBAC)
+- Email verification system
 
-*(More projects available in my repositories 👇)*
+**👉 Explore more projects in my [repositories](https://github.com/ishara1009?tab=repositories)**
 
 ---
 
@@ -58,23 +97,55 @@ I enjoy learning new technologies, solving problems, and working on practical pr
 **BSc (Hons) in Software Engineering**  
 Sri Lanka Institute of Information Technology (SLIIT)
 
----
-
-## 📫 Contact Me
-
-- 📧 Email: `your-email@example.com`
-- 💼 LinkedIn: *www.linkedin.com/in/ishara-wijayarathna*
-- 🌐 GitHub: [https://github.com/your-username](https://github.com/your-username)
+*Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Architecture, Object-Oriented Programming*
 
 ---
 
-## ⚡ Interests
+## 📊 GitHub Stats
 
-- Full Stack Web Development
-- System Design
-- Open Source Contributions
-- Learning New Technologies
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishara1009&show_icons=true&theme=default)](https://github.com/ishara1009)
+
+</div>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | isharagihan1009@gmail.com |
+| 💼 **LinkedIn** | [ishara-wijayarathna](https://www.linkedin.com/in/ishara-wijayarathna) |
+| 🐙 **GitHub** | [ishara1009](https://github.com/ishara1009) |
+| 💻 **Portfolio** | *Coming Soon* |
+
+</div>
+
+---
+
+## 🎓 Learning & Development
+
+- 🔄 Currently mastering: **Advanced System Design & Microservices**
+- 📖 Exploring: Cloud platforms (AWS, Google Cloud), Docker & Kubernetes
+- 💡 Interested in: Scalable architecture, DevOps, and software design patterns
+
+---
+
+## ⭐ Open to Opportunities
+
+- 💼 Internship opportunities in **Full Stack Development**
+- 🤝 Collaboration on **open-source projects**
+- 💬 Always happy to discuss **software engineering best practices**
+- 📚 Keen on **mentorship and knowledge sharing**
+
+---
+
+<div align="center">
+
+*⭐ If you find my work interesting, feel free to star my repositories!*  
+*Let's build something amazing together 🚀*
+
+</div>
