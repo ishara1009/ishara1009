@@ -1,15 +1,5 @@
 # Hi, I'm Ishara Wijayarathna
 
-**Software Engineering Undergraduate** | Full Stack Developer | Problem Solver
-
-<div align="center">
-
-🎓 **Sri Lanka Institute of Information Technology (SLIIT)**  
-💻 Building scalable web applications | 🚀 Passionate about software engineering  
-🌱 Continuously learning and improving my craft
-
-</div>
-
 ---
 
 ## About Me
