@@ -100,6 +100,10 @@ I enjoy the entire software development lifecycle, from concept and design to im
 - Collaboration on AI agents, RAG applications, and open-source projects
 - Building practical LLM-powered applications with development teams
 - Learning from experienced engineers through mentorship and knowledge sharing
+- Internship opportunities in **Full Stack Development**
+- Collaboration on **open-source projects**
+- Always happy to discuss **software engineering best practices**
+- Keen on **mentorship and knowledge sharing**
 
 <div align="center">
 
