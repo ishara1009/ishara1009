@@ -22,9 +22,9 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 <table width="100%">
   <tr>
-    <td colspan="2" width="1000" valign="top">
-      <sub><strong>CAPABILITIES</strong></sub>
-      <h3>What I Do</h3>
+    <td width="500" valign="top">
+      <sub><strong>AI ENGINEERING</strong></sub>
+      <h3>Intelligent Systems</h3>
       <ul>
         <li>AI/ML and generative AI application development</li>
         <li>Agentic AI and multi-agent workflow exploration</li>
@@ -32,6 +32,12 @@ I enjoy the entire software development lifecycle, from concept and design to im
         <li>LangChain, LangGraph, and MCP integrations</li>
         <li>Python and FastAPI backend development</li>
         <li>Cloud-ready full-stack solutions with AWS and Docker</li>
+      </ul>
+    </td>
+    <td width="500" valign="top">
+      <sub><strong>SOFTWARE ENGINEERING</strong></sub>
+      <h3>Full-Stack Development</h3>
+      <ul>
         <li>Full-stack web development</li>
         <li>RESTful API design and development</li>
         <li>Database design and optimization</li>
