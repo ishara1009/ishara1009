@@ -20,58 +20,60 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 ## Core Competencies
 
-### What I Do
-
-- AI/ML and generative AI application development
-- Agentic AI and multi-agent workflow exploration
-- RAG pipelines and LLM-powered experiences
-- LangChain, LangGraph, and MCP integrations
-- Python and FastAPI backend development
-- Cloud-ready full-stack solutions with AWS and Docker
-- Full-stack web development
-- RESTful API design and development
-- Database design and optimization
-- Clean, maintainable code and best practices
-- Effective collaboration with development teams
-- Problem solving with software engineering principles
-
-**Languages**
-- JavaScript/TypeScript
-- Java
-- Python
-- HTML5 & CSS3
-- SQL
-
-**Frontend Development**
-- React.js
-- HTML5 & CSS3
-- RESTful API Integration
-- Responsive Design
-
-**Backend Development**
-- Node.js & Express.js
-- RESTful API Design
-- Authentication & Authorization (JWT, bcrypt)
-- Database Design & Optimization
-
-**Databases**
-- MongoDB (NoSQL)
-- MySQL (Relational)
-- Database Design & Normalization
-
-**Tools & Technologies**
-- Git & GitHub (Version Control)
-- Visual Studio Code
-- Postman (API Testing)
-- npm/yarn (Package Management)
-- Webpack & Build Tools
-
-**Software Engineering Practices**
-- Object-Oriented Programming (OOP)
-- MVC Architecture
-- Clean Code Principles
-- RESTful API Design
-- Version Control Workflows
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <sub><strong>CAPABILITIES</strong></sub>
+      <h3>What I Do</h3>
+      <ul>
+        <li>AI/ML and generative AI application development</li>
+        <li>Agentic AI and multi-agent workflow exploration</li>
+        <li>RAG pipelines and LLM-powered experiences</li>
+        <li>LangChain, LangGraph, and MCP integrations</li>
+        <li>Python and FastAPI backend development</li>
+        <li>Cloud-ready full-stack solutions with AWS and Docker</li>
+        <li>Full-stack web development</li>
+        <li>RESTful API design and development</li>
+        <li>Database design and optimization</li>
+        <li>Clean, maintainable code and best practices</li>
+        <li>Effective collaboration with development teams</li>
+        <li>Problem solving with software engineering principles</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages</h3>
+      <p>JavaScript / TypeScript<br />Java<br />Python<br />HTML5 &amp; CSS3<br />SQL</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Frontend Development</h3>
+      <p>React.js<br />HTML5 &amp; CSS3<br />RESTful API Integration<br />Responsive Design</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend Development</h3>
+      <p>Node.js &amp; Express.js<br />RESTful API Design<br />Authentication &amp; Authorization<br />Database Design &amp; Optimization</p>
+      <p><sub>JWT · bcrypt</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Databases</h3>
+      <p>MongoDB<br />MySQL<br />Database Design &amp; Normalization</p>
+      <p><sub>NoSQL · Relational</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tools &amp; Technologies</h3>
+      <p>Git &amp; GitHub<br />Visual Studio Code<br />Postman<br />npm / yarn<br />Webpack &amp; Build Tools</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Software Engineering Practices</h3>
+      <p>Object-Oriented Programming<br />MVC Architecture<br />Clean Code Principles<br />RESTful API Design<br />Version Control Workflows</p>
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 
