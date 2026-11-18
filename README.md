@@ -75,33 +75,51 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 ## Featured Projects
 
-### Research
-
-Co-author of an IEEE ECAI 2026 research paper on [MarketMatic](https://ieeexplore.ieee.org/document/11613680), an AI-powered platform for SMEs, with a focus on bilingual marketing content generation and Sinhala Unicode rendering.
-
-### [MediRecall-AI-Powered Patient Record Search Web Application](https://github.com/ishara1009/MediRecall---AI-Powered-Patient-Record-Search-Web-Application)
-
-AI-powered patient record search and healthcare management platform built with React, Node.js, FastAPI, MongoDB, LangChain, OpenAI, and ChromaDB.
-
-### [ReqLens — Requirements Intelligence](https://github.com/ishara1009/Reqlens-Requirements-Intelligence)
-
-ReqLens AI is a requirements intelligence platform built with React, TypeScript, Tailwind CSS, FastAPI, Python, MongoDB, LangGraph, OpenAI, and Tavily. It uses Agentic RAG to detect contradictions, ambiguity, duplicates, and version changes with traceable, source-linked answers.
-
-### [CampusFind MCP](https://github.com/ishara1009/Campusfind-MCP)
-
-AI-powered campus lost-and-found app built with React, FastAPI, MCP, OpenAI, and MySQL. Search, report, and track found items through secure MCP tools.
-
-### [AI Smart Travel Planner](https://github.com/ishara1009/Ai-Smart-Travel-Planner)
-
-AI-powered multi-agent smart travel planner built with React, FastAPI, LangGraph, OpenAI, MongoDB, and Docker—featuring intelligent agents for destination research, personalized itineraries, recommendations, weather insights, and budget planning.
-
-### [Online Web Marketplace Web Application](https://github.com/ishara1009/Online-Web-Marketplace-WebApplication)
-
-Dual-role MERN marketplace enabling customers to shop and sellers to manage products, orders, and sales in one platform.
-
-### [Campus Maintenance Request System](https://github.com/ishara1009/Campus-Maintenance-Request-System)
-
-A full-stack Campus Maintenance Request System built with React, Spring Boot, and MySQL, featuring role-based student, staff, and admin workflows.
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <sub><strong>RESEARCH · IEEE ECAI 2026</strong></sub>
+      <h3><a href="https://ieeexplore.ieee.org/document/11613680">MarketMatic</a></h3>
+      <p>Co-author of a research paper on an AI-powered platform for SMEs, focused on bilingual marketing content generation and Sinhala Unicode rendering.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/MediRecall---AI-Powered-Patient-Record-Search-Web-Application">MediRecall</a></h3>
+      <p>AI-powered patient record search and healthcare management platform.</p>
+      <p><sub><strong>TECH:</strong> React · Node.js · FastAPI · MongoDB · LangChain · OpenAI · ChromaDB</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/Reqlens-Requirements-Intelligence">ReqLens</a></h3>
+      <p>Requirements intelligence platform using Agentic RAG to detect contradictions, ambiguity, duplicates, and version changes.</p>
+      <p><sub><strong>TECH:</strong> React · TypeScript · FastAPI · MongoDB · LangGraph · OpenAI · Tavily</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/Campusfind-MCP">CampusFind MCP</a></h3>
+      <p>AI-powered campus lost-and-found app for securely searching, reporting, and tracking items.</p>
+      <p><sub><strong>TECH:</strong> React · FastAPI · MCP · OpenAI · MySQL</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/Ai-Smart-Travel-Planner">AI Smart Travel Planner</a></h3>
+      <p>Multi-agent travel planner for destination research, itineraries, recommendations, weather, and budgets.</p>
+      <p><sub><strong>TECH:</strong> React · FastAPI · LangGraph · OpenAI · MongoDB · Docker</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/Online-Web-Marketplace-WebApplication">Online Web Marketplace</a></h3>
+      <p>Dual-role marketplace where customers shop and sellers manage products, orders, and sales.</p>
+      <p><sub><strong>TECH:</strong> MongoDB · Express.js · React · Node.js</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ishara1009/Campus-Maintenance-Request-System">Campus Maintenance Request System</a></h3>
+      <p>Full-stack maintenance platform with role-based student, staff, and admin workflows.</p>
+      <p><sub><strong>TECH:</strong> React · Spring Boot · MySQL</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Stats
 
