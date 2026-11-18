@@ -22,7 +22,7 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 <table width="100%">
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" width="1000" valign="top">
       <sub><strong>CAPABILITIES</strong></sub>
       <h3>What I Do</h3>
       <ul>
@@ -42,33 +42,33 @@ I enjoy the entire software development lifecycle, from concept and design to im
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Languages</h3>
       <p>JavaScript / TypeScript<br />Java<br />Python<br />HTML5 &amp; CSS3<br />SQL</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Frontend Development</h3>
       <p>React.js<br />HTML5 &amp; CSS3<br />RESTful API Integration<br />Responsive Design</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Backend Development</h3>
       <p>Node.js &amp; Express.js<br />RESTful API Design<br />Authentication &amp; Authorization<br />Database Design &amp; Optimization</p>
       <p><sub>JWT · bcrypt</sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Databases</h3>
       <p>MongoDB<br />MySQL<br />Database Design &amp; Normalization</p>
       <p><sub>NoSQL · Relational</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Tools &amp; Technologies</h3>
       <p>Git &amp; GitHub<br />Visual Studio Code<br />Postman<br />npm / yarn<br />Webpack &amp; Build Tools</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="500" valign="top">
       <h3>Software Engineering Practices</h3>
       <p>Object-Oriented Programming<br />MVC Architecture<br />Clean Code Principles<br />RESTful API Design<br />Version Control Workflows</p>
     </td>
