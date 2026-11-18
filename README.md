@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ishara Wijayarathna
+# Hi, I'm Ishara Wijayarathna
 
 **Software Engineering Undergraduate** | Full Stack Developer | Problem Solver
 
