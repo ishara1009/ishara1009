@@ -73,6 +73,10 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 Co-author of an IEEE ECAI 2026 research paper on [MarketMatic](https://ieeexplore.ieee.org/document/11613680), an AI-powered platform for SMEs, with a focus on bilingual marketing content generation and Sinhala Unicode rendering.
 
+### [MediRecall — AI-Powered Patient Record Search Web Application](https://github.com/ishara1009/MediRecall---AI-Powered-Patient-Record-Search-Web-Application)
+
+AI-powered patient record search and healthcare management platform built with React, Node.js, FastAPI, MongoDB, LangChain, OpenAI, and ChromaDB.
+
 ## GitHub Stats
 
 <div align="center">
