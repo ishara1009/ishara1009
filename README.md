@@ -1,8 +1,21 @@
-# Hi, I'm Ishara Wijayarathna
+<div align="center">
+
+<h1>Hi, I'm Ishara Wijayarathna</h1>
+
+<h3>AI Engineer & Full-Stack Developer</h3>
+
+<p><em>Building at the intersection of AI engineering and full-stack development.</em></p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML-6f42c1?style=flat-square" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/Generative_AI-8b5cf6?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/Agentic_AI-4f46e5?style=flat-square" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Full--Stack_Development-2563eb?style=flat-square" alt="Full-Stack Development" />
+</p>
+
+</div>
 
 ## About Me
-
-*Building at the intersection of AI engineering and full-stack development.*
 
 ### My Journey
 
