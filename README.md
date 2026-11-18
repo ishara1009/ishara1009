@@ -67,13 +67,6 @@ I enjoy the entire software development lifecycle, from concept and design to im
 - RESTful API Design
 - Version Control Workflows
 
-## Education
-
-**BSc (Hons) in Software Engineering**  
-Sri Lanka Institute of Information Technology (SLIIT)
-
-*Coursework: Data Structures, Algorithms, Web Development, Database Management, Software Architecture, Object-Oriented Programming*
-
 ## GitHub Stats
 
 <div align="center">
@@ -103,10 +96,10 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 ## Open to Opportunities
 
-- Internship opportunities in **Full Stack Development**
-- Collaboration on **open-source projects**
-- Always happy to discuss **software engineering best practices**
-- Keen on **mentorship and knowledge sharing**
+- Internship opportunities in AI/ML, Generative AI, and Full-Stack Development
+- Collaboration on AI agents, RAG applications, and open-source projects
+- Building practical LLM-powered applications with development teams
+- Learning from experienced engineers through mentorship and knowledge sharing
 
 <div align="center">
 
