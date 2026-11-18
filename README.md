@@ -8,7 +8,7 @@
 
 I'm an Information Technology graduate from SLIIT and an emerging AI engineer focused on AI/ML and generative AI. I'm especially interested in building practical LLM-powered products using agentic workflows, retrieval-augmented generation (RAG), and multi-agent systems.
 
-My full-stack background helps me take intelligent applications beyond prototypes. I enjoy connecting Python and FastAPI services to modern user experiences, then exploring how AWS and Docker can make those systems reliable, portable, and ready to scale.
+My full-stack background helps me take intelligent applications beyond prototypes. I enjoy connecting Python and FastAPI services to modern user experiences and building systems that are reliable, portable, and ready to scale.
 
 I enjoy the entire software development lifecycle, from concept and design to implementation and deployment. With hands-on experience in full-stack development, I'm committed to writing clean, maintainable code, following software engineering best practices, and continuously exploring technologies that help me deliver high-quality applications.
 
