@@ -14,13 +14,34 @@
 
 ## About Me
 
-I'm a dedicated **Software Engineering undergraduate** with a passion for creating elegant, scalable solutions to real-world problems. I thrive in collaborative environments and enjoy the entire software development lifecycle—from concept and design to implementation and deployment.
+*Building at the intersection of AI engineering and full-stack development.*
 
-With hands-on experience in full-stack development, I'm committed to writing clean, maintainable code and following software engineering best practices. I'm constantly exploring new technologies and methodologies to enhance my skills and deliver high-quality applications.
+### My Journey
+
+I'm an Information Technology graduate from SLIIT and an emerging AI engineer focused on AI/ML and generative AI. I'm especially interested in building practical LLM-powered products using agentic workflows, retrieval-augmented generation (RAG), and multi-agent systems.
+
+My full-stack background helps me take intelligent applications beyond prototypes. I enjoy connecting Python and FastAPI services to modern user experiences, then exploring how AWS and Docker can make those systems reliable, portable, and ready to scale.
+
+I enjoy the entire software development lifecycle, from concept and design to implementation and deployment. With hands-on experience in full-stack development, I'm committed to writing clean, maintainable code, following software engineering best practices, and continuously exploring technologies that help me deliver high-quality applications.
 
 ---
 
 ## 🎯 Core Competencies
+
+### What I Do
+
+- AI/ML and generative AI application development
+- Agentic AI and multi-agent workflow exploration
+- RAG pipelines and LLM-powered experiences
+- LangChain, LangGraph, and MCP integrations
+- Python and FastAPI backend development
+- Cloud-ready full-stack solutions with AWS and Docker
+- Full-stack web development
+- RESTful API design and development
+- Database design and optimization
+- Clean, maintainable code and best practices
+- Effective collaboration with development teams
+- Problem solving with software engineering principles
 
 **Languages**
 - JavaScript/TypeScript
