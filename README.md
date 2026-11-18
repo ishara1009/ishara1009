@@ -67,6 +67,12 @@ I enjoy the entire software development lifecycle, from concept and design to im
 - RESTful API Design
 - Version Control Workflows
 
+## Featured Projects
+
+### Research
+
+Co-author of an IEEE ECAI 2026 research paper on [MarketMatic](https://ieeexplore.ieee.org/document/11613680), an AI-powered platform for SMEs, with a focus on bilingual marketing content generation and Sinhala Unicode rendering.
+
 ## GitHub Stats
 
 <div align="center">
