@@ -20,7 +20,7 @@ I enjoy the entire software development lifecycle, from concept and design to im
 
 ## Core Competencies
 
-<table>
+<table width="100%">
   <tr>
     <td colspan="2" valign="top">
       <sub><strong>CAPABILITIES</strong></sub>
