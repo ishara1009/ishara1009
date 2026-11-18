@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a dedicated **Software Engineering undergraduate** with a passion for creating elegant, scalable solutions to real-world problems. I thrive in collaborative environments and enjoy the entire software development lifecycle—from concept and design to implementation and deployment.
 
