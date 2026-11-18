@@ -67,34 +67,6 @@ I enjoy the entire software development lifecycle, from concept and design to im
 - RESTful API Design
 - Version Control Workflows
 
-## Featured Projects
-
-### Web Marketplace System
-**MERN Stack** | Full-featured e-commerce platform
-- User authentication with JWT & secure password hashing
-- Dynamic product catalog with filtering & search
-- Shopping cart and order management
-- Admin dashboard for inventory control
-- Real-time notifications system
-
-### Hotel Management System
-**Full Stack Web Application** | Reservation & booking platform
-- Guest management and check-in/check-out systems
-- Room inventory tracking & availability management
-- Reservation scheduling & confirmation emails
-- Staff management dashboard
-- Billing and payment integration
-
-### Authentication System
-**Security-focused Implementation** | User session management
-- Secure login/signup with input validation
-- Password hashing using bcrypt
-- JWT token-based authentication
-- Role-based access control (RBAC)
-- Email verification system
-
-**Explore more projects in my [repositories](https://github.com/ishara1009?tab=repositories)**
-
 ## Education
 
 **BSc (Hons) in Software Engineering**  
@@ -119,7 +91,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 | **Email** | isharagihan1009@gmail.com |
 | **LinkedIn** | [ishara-wijayarathna](https://www.linkedin.com/in/ishara-wijayarathna) |
 | **GitHub** | [ishara1009](https://github.com/ishara1009) |
-| **Portfolio** | *Coming Soon* |
+| **Portfolio** | [isharagihan.com](https://isharagihan.com) |
 
 </div>
 
