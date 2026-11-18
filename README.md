@@ -81,6 +81,22 @@ AI-powered patient record search and healthcare management platform built with R
 
 ReqLens AI is a requirements intelligence platform built with React, TypeScript, Tailwind CSS, FastAPI, Python, MongoDB, LangGraph, OpenAI, and Tavily. It uses Agentic RAG to detect contradictions, ambiguity, duplicates, and version changes with traceable, source-linked answers.
 
+### [CampusFind MCP](https://github.com/ishara1009/Campusfind-MCP)
+
+AI-powered campus lost-and-found app built with React, FastAPI, MCP, OpenAI, and MySQL. Search, report, and track found items through secure MCP tools.
+
+### [AI Smart Travel Planner](https://github.com/ishara1009/Ai-Smart-Travel-Planner)
+
+AI-powered multi-agent smart travel planner built with React, FastAPI, LangGraph, OpenAI, MongoDB, and Docker—featuring intelligent agents for destination research, personalized itineraries, recommendations, weather insights, and budget planning.
+
+### [Online Web Marketplace Web Application](https://github.com/ishara1009/Online-Web-Marketplace-WebApplication)
+
+Dual-role MERN marketplace enabling customers to shop and sellers to manage products, orders, and sales in one platform.
+
+### [Campus Maintenance Request System](https://github.com/ishara1009/Campus-Maintenance-Request-System)
+
+A full-stack Campus Maintenance Request System built with React, Spring Boot, and MySQL, featuring role-based student, staff, and admin workflows.
+
 ## GitHub Stats
 
 <div align="center">
